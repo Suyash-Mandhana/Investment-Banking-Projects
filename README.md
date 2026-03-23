@@ -6,7 +6,7 @@ Financial modelling and deal analysis focused on M&A transactions, accretion/dil
 
 | # | Project | Type | Company/Sector | Status |
 | --- | --- | --- | --- | --- |
-| 1 | [HUL Valuation](projects/Hul-Valuation/) | DCF + Comps | HUL / FMCG | Complete |
+| 1 | [HUL Valuation](Hul-Valuation/) | DCF + Comps | HUL / FMCG | Complete |
 | 2 | [Adani-Ambuja Cements M&A](projects/adani-ambuja-ma/) | Accretion/Dilution | Adani-Ambuja Cements | In Progress |
 
 ## Skills Demonstrated
